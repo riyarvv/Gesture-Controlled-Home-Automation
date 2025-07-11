@@ -6,13 +6,13 @@
 const int light = 2;
 
 // Network and Firebase credentials
-#define WIFI_SSID "FAWSTECH INNOVATION"
-#define WIFI_PASSWORD "JERSARFAWS"
+#define WIFI_SSID "ENTER YOUR WIFI SSID NAME"
+#define WIFI_PASSWORD "ENTER YOUR WIFI PASSWORD"
 
-#define Web_API_KEY "AIzaSyA_RjuSlO63iKoH62U7zyGLUh1uo-CQJL0"
-#define DATABASE_URL "https://homeautomation-b6f6c-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "priyalachu2003@gmail.com"
-#define USER_PASS "Lpts@2003"
+#define Web_API_KEY "PASTE YOUR WEB API KEY"
+#define DATABASE_URL "PASTE YOUR DATABASE URL"
+#define USER_EMAIL "USER EMAIL"
+#define USER_PASS "USER PASSWORD"
 
 // Firebase components
 FirebaseApp app;
