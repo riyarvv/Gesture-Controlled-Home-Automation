@@ -4,13 +4,13 @@
 #include <FirebaseClient.h>
 
 // Network and Firebase credentials
-#define WIFI_SSID "FAWSTECH INNOVATION"
-#define WIFI_PASSWORD "JERSARFAWS"
+#define WIFI_SSID "ENTER WIFI SSID NAME"
+#define WIFI_PASSWORD "ENTER WIFI PASSWORD"
 
-#define Web_API_KEY "AIzaSyDIrKwPF-7TjtOf1v62NlXqayKMVqrqeZw"
-#define DATABASE_URL "https://homeautomation-94e12-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "riyarv7723@gmail.com"
-#define USER_PASS "ri041004"
+#define Web_API_KEY "PASTE YOUR API KEY HERE"
+#define DATABASE_URL "PASTE YOUR DATABASE URL HERE"
+#define USER_EMAIL "USER EMAIL"
+#define USER_PASS "USER PASSWORD"
 
 // User function
 void processData(AsyncResult &aResult);
